@@ -2,7 +2,7 @@
 Base code created and developed by Andrew Plested of FMP Berlin to model glutamate receptor gating
 GUI coded and packaged by Samuel Liu and Andrew Penn and the University of Sussex
 
-The software is compiled for Windows (32-bit) and is expected to runs on Windows versions that support 32-bit and 64-bit applications, although this has not been extensively tested. To run the compiled windows application, unpack the zip file and double-click the Aligator.exe file.
+The software is compiled for Windows (32-bit) and is expected to runs on Windows versions that support 32-bit and 64-bit applications, although this has not been extensively tested. To run the compiled windows application, unpack the zip file and double-click the Aligator.exe file in the 'Compiled' folder.
 
 Running from source requires Python 2 and depends on:
 PyQt5
